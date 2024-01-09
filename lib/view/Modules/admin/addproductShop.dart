@@ -20,7 +20,6 @@ class AddProductPageShop extends StatefulWidget {
 var productName = TextEditingController();
 var productDescription = TextEditingController();
 var amount = TextEditingController();
-String gggg="";
 
 //----------selectVarient
 var varient1title = TextEditingController();
