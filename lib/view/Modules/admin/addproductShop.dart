@@ -10,6 +10,7 @@ import 'package:trade_hub/viewmodel/firestore.dart';
 
 class AddProductPageShop extends StatefulWidget {
   String shopName;
+
   AddProductPageShop({super.key, required this.shopName});
 
   @override
@@ -19,6 +20,7 @@ class AddProductPageShop extends StatefulWidget {
 var productName = TextEditingController();
 var productDescription = TextEditingController();
 var amount = TextEditingController();
+String gggg="";
 
 //----------selectVarient
 var varient1title = TextEditingController();
