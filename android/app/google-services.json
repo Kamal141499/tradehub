@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976032084150",
+    "project_id": "tradehub-43a72",
+    "storage_bucket": "tradehub-43a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976032084150:android:68b178c58876e26d8db617",
+        "android_client_info": {
+          "package_name": "com.example.trade_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD_eQakQSmBJwzV0l_Qm32fWsR0oEBrHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
